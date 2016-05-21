@@ -1,9 +1,9 @@
 # Site settings
-title: Ronald Manganaro CV
-description: Ronald Manganaro's CV
-favicon: /assets/img/me.jpg
-baseurl: https://ronaldmanganaro.github.io/resume
-url: https://ronaldmanganaro.github.io/resume
+title: Dong Liang's CV 
+description: ddbullfrog's CV
+favicon: /assets/img/avatar.JPG
+baseurl: https://ddbullfrog.github.io/resumecard
+url: https://ddbullfrog.github.io/resumecard
 rss_url: /pages/atom.xml
 google_analytics: UA-63653234-1
 
@@ -14,16 +14,16 @@ exclude: [vendor]
 
 # Author settings
 author:
-  name: Ronald Manganaro
-  title: Software Developer
-  address: Woburn, Massachusetts
-  email: ronaldmanganaro@gmail.com
-  link: http://ronaldmanganaro@gmail.com
+  name: Dong Liang
+  title: Java Developer
+  address: Auckland, New Zealand
+  email: dongg.liang@gmail.com
+  link: http://ddbullfrog.com
   weibo:
-  github: https://github.com/ronaldmanganaro
-  linkedin: linkedin.com/in/https://www.linkedin.com/in/ronald-manganaro-58218378
-  twitter: 
-  gavatar: /resumecard/assets/img/me.jpg
+  github: ddbullfrog
+  linkedin: ddbullfrog
+  twitter: ddbullfrog
+  gavatar: /resumecard/assets/img/avatar.JPG
   stackoverflow:
 #  stackoverflow: 4582127
   workHistory:
