@@ -1,7 +1,7 @@
 # Site settings
 title: Ronald Manganaro CV
 description: Ronald Manganaro's CV
-favicon: /assets/img/avatar.JPG
+favicon: /assets/img/me.jpg
 baseurl: https://ddbullfrog.github.io/resumecard
 url: https://ddbullfrog.github.io/resumecard
 rss_url: /pages/atom.xml
