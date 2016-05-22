@@ -28,26 +28,26 @@ author:
 #  stackoverflow: 4582127
   workHistory:
     - work1:
-      company: Finzsoft Solutions Ltd
-      location: Auckland, New Zealand
-      title: Java Developer
+      company: Wii U Independent Developer
+      location: Woburn, Massachusetts
+      title: C# Developer
       started: 2014
       duration: (2014 - Present)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      description: <ul><li>Programmed in C#</li><li>Used the Unity3d game engine</li><li>Lead a team consisting of an artist, programmer, and musician</li></ul>
     - work2:
-      company: Agfa HealthCare
-      location: Shanghai, China
-      title: Java Developer
-      started: 2012
-      duration: (2012 - 2014)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: University of Massachusetts Lowell
+      location: Lowell, Massachusetts
+      title: Computing II: Data Structures Teaching Assistant
+      started: 2015
+      duration: (Sept 2015 - Dec 2015)
+      description: <ul><li>Aided professor by grading quizzes and programming assignments</li><li>Answered questions the students had about course material and homework assignments</li><li>Made suggestions on how to improve or fix submitted assignments</li></ul>
     - work3:
-      company: Citigroup Services and Technology (China) Limited
-      location: Shanghai, China
-      title: Java Developer
-      started: 2009
-      duration: (2009 - 2012)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: Citizens Disability
+      location: Waltham, Massachusetts
+      title: Supervisor of Client Services
+      started: 2013
+      duration: (May 2013 - August 2013)
+      description: <ul><li>Made sure coworkers worked up to company standards</li><li>Organaized data through the use of spreadsheets and word documents</li></ul> 
   educationHistory:
     - education1:
       organization: University of Massachusetts Lowell
