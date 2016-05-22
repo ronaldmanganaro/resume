@@ -53,10 +53,10 @@ author:
       organization: University of Massachusetts Lowell
       location: Lowell, Massachusetts
       degree: Bachelor's of Science
-      major: Computer Science GPA 3.3
+      major: Computer Science<br>GPA 3.3
       started: 2014
       duration: (2014 - 2016)
-      description: <ul><li></li></ul>
+      description: <table><tr><td><ul><li>Computing I, II, III, IV</li><li>Assembly Language</li><li>Oral &amp; Written Communication</li><li>Discrete Structures I, II</li><li>Operating Systems</li></ul><td></tr></table>
   languages:
     - language1:
       name: Chinese
