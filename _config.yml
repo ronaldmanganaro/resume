@@ -31,8 +31,8 @@ author:
       company: Wii U Independent Developer
       location: Woburn, Massachusetts
       title: C# Developer
-      started: 2014
-      duration: (2014 - Present)
+      started: 2016
+      duration: (2016 - Present)
       description: <ul><li>Programmed in C#</li><li>Used the Unity3d game engine</li><li>Lead a team consisting of an artist, programmer, and musician</li></ul>
     - work2:
       company: University of Massachusetts Lowell
@@ -47,7 +47,7 @@ author:
       title: Supervisor of Client Services
       started: 2013
       duration: (May 2013 - August 2013)
-      description: <ul><li>Made sure coworkers worked up to company standards</li><li>Organaized data through the use of spreadsheets and word documents</li></ul> 
+      description: <ul><li>Made sure coworkers worked up to company standards</li><li>Organaized data through the use of spreadsheets and word documents</li></ul>
   educationHistory:
     - education1:
       organization: University of Massachusetts Lowell
