@@ -2,8 +2,8 @@
 title: Ronald Manganaro CV
 description: Ronald Manganaro's CV
 favicon: /assets/img/avatar.JPG
-baseurl: https://ddbullfrog.github.io/resumecard
-url: https://ddbullfrog.github.io/resumecard
+baseurl: https://ronaldmanganaro.github.io/resumecard
+url: https://ronaldmanganaro.github.io/resumecard
 rss_url: /pages/atom.xml
 google_analytics: UA-63653234-1
 
@@ -18,10 +18,10 @@ author:
   title: Software Developer
   address: Massachusetts, Woburn
   email: ronaldmanganaro@gmail.com
-  link: http://ddbullfrog.com
+  link: http://ronaldmanganaro.github.io
   weibo:
-  github: ddbullfrog
-  linkedin: ddbullfrog
+  github: ronaldmanganaro
+  linkedin: ronaldmanganaro
   twitter: ddbullfrog
   gavatar: /resumecard/assets/img/avatar.JPG
   stackoverflow:
