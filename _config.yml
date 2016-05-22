@@ -56,7 +56,7 @@ author:
       major: Computer Science<br>GPA 3.3
       started: 2014
       duration: (2014 - 2016)
-      description: <h1>Relevant Course Work<h1><table><tr><td><ul><li>Computing I, II, III, IV</li><li>Assembly Language</li><li>Oral &amp; Written Communication</li><li>Discrete Structures I, II</li><li>Operating Systems</li></ul><td></tr><tr><ul><li>Logic Design</li><li>Computer Architecture</li><li>Calculus I, II</li><li>Foundations of Computation</li><li>Software Engineering</li><li>Ubiquiteous Computing</li></ul></tr></table>
+      description: <h5>Relevant Course Work<h5> <table><tr><td><ul><li>Computing I, II, III, IV</li></ul></td><td><ul><li>Logic Design</li></ul></td></tr> <tr><td><ul><li>Assembly Language</li></ul></td><td><ul><li>Computer Architecture</li></ul></td></tr> </table>
   languages:
     - language1:
       name: Chinese
