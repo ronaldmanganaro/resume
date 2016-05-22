@@ -56,7 +56,7 @@ author:
       major: Computer Science<br>GPA 3.3
       started: 2014
       duration: (2014 - 2016)
-      description: <h5>Relevant Course Work</h5> <table><tr><ul><td><li>Computing I, II, III, IV</li></td><td><li>Logic Design</li></td><td><li>Assembly Language</li></td></tr><tr><td><li>Computer Architecture</li></td><td><li>Discrete Structures I,II</li></td><td><li>Calculus I, II</li></td></tr><tr><td><li>Operating Systems</li></td><td><li>Software Engineering</li></td><td><li>Ubiquitous Computing</li></td></tr><tr><td><li>Foundations of CS</li></td><td><li>Oral &amp; Written Communication for CS</li></td><td><li>Analysis of Algorithms</li></td></ul></tr></table>
+      description: <h5>Relevant Course Work</h5> <table><tr><ul><td><li>Computing I, II, III, IV</li></td><td><li>Logic Design</li></td><td><li>Assembly Language</li></td></ul></tr><tr><ul><td><li>Computer Architecture</li></td><td><li>Discrete Structures I,II</li></td><td><li>Calculus I, II</li></td></ul></tr><tr><ul><td><li>Operating Systems</li></td><td><li>Software Engineering</li></td><td><li>Ubiquitous Computing</li></td></ul></tr><tr><ul><td><li>Foundations of CS</li></td><td><li>Oral &amp; Written Communication for CS</li></td><td><li>Analysis of Algorithms</li></td></ul></tr></table>
     - education2:
       organization: Middlesex Community College
       location: Bedford, Massachusetts
