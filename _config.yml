@@ -66,14 +66,14 @@ author:
       duration: (2011 - 2013)
   languages:
     - language1:
-      name: Chinese
-      proficiency: Native
+      name: Windows/Linux/Android OS
+      proficiency: Expert
     - language2:
-      name: English
-      proficiency: Professional
+      name: Android Studio/Visual Studio/Bash
+      proficiency: Intermediate
     - language3:
-      name: Japanese
-      proficiency: Limit
+      name: Unity3d game Development tool
+      proficiency: Intermediate
   programmingSkills:
     - skill1:
       name: C
