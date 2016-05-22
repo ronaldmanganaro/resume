@@ -22,7 +22,7 @@ author:
   weibo:
   github: ronaldmanganaro
   linkedin: ronaldmanganaro
-  twitter: ddbullfrog
+  twitter:
   gavatar: /resumecard/assets/img/avatar.JPG
   stackoverflow:
 #  stackoverflow: 4582127
@@ -69,17 +69,17 @@ author:
       proficiency: Limit
   programmingSkills:
     - skill1:
-      name: HTML
+      name: C
       percentage: 100%
     - skill2:
-      name: Bootstrap
-      percentage: 90%
+      name: C++
+      percentage: 100%
     - skill3:
-      name: JavaScript
+      name: Java
       percentage: 70%
     - skill4:
-      name: AngularJS
+      name: C#
       percentage: 70%
     - skill5:
-      name: Java/Java EE
-      percentage: 90%
+      name: HTML/CSS/JavaScript
+      percentage: 50%
