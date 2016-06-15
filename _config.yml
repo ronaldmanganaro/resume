@@ -84,10 +84,10 @@ author:
       percentage: 100%
     - skill3:
       name: Java
-      percentage: 70%
+      percentage: 75%
     - skill4:
       name: C#
-      percentage: 70%
+      percentage: 75%
     - skill5:
       name: HTML/CSS/JavaScript
       percentage: 50%
