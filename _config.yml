@@ -27,24 +27,31 @@ author:
   stackoverflow:
 #  stackoverflow: 4582127
   workHistory:
-    - work1:
+  - work1:
+      company: Best Buy
+      location: Burlington, Massachusetts
+      title: Computer Sales Associate
+      started: 2016
+      duration: (2016 - Present)
+      description: <ul><li>Kept up with latest technology and assisted customers</li></ul>
+    - work2:
       company: Wii U Independent Developer
       location: Woburn, Massachusetts
       title: C# Developer
       started: 2014
       duration: (2014 - Present)
       description: <ul><li>Programmed in C#</li><li>Used the Unity3d game engine</li></ul>
-    - work2:
+    - work3:
       company: University of Massachusetts Lowell
       location: Lowell, Massachusetts
       title: Computing II&#58; Data Structures Teaching Assistant
       started: 2015
       duration: (Sept 2015 - Dec 2015)
       description: <ul><li>Aided professor by grading quizzes and programming assignments</li><li>Answered questions the students had about course material and homework assignments</li><li>Made suggestions on how to improve or fix submitted assignments</li></ul>
-    - work3:
+    - work4:
       company: Citizens Disability
       location: Waltham, Massachusetts
-      title: Supervisor of Client Services (Jan 2014 - July 2014)<br>Client Services Representative (May 2013 - January 2014)
+      title: <h2> Supervisor of Client Services </h2> (Jan 2014 - July 2014)<br>Client Services Representative (May 2013 - January 2014)
       started: 2013
       duration: (May 2013 - July 2014)
       description: <h5>Supervisor of Client Services</h5><ul><li>Made sure coworkers worked up to company standards</li><li>Organaized data through the use of spreadsheets and word documents</li></ul><h5>Client Services Representative</h5> <ul><li>Performed research for clients</li><li>Answered phones and scheduled appointments for clients</li></ul>
@@ -53,10 +60,10 @@ author:
       organization: University of Massachusetts Lowell
       location: Lowell, Massachusetts
       degree: Bachelor of Science
-      major: Computer Science<br>GPA 3.3
+      major: Computer Science<br>GPA 3.4
       started: 2014
-      duration: (2014 - 2016)
-      description: <h5>Relevant Course Work</h5> <table><tr><td><ul><li>Computing I, II, III, IV</li></ul></td><td><ul><li>Logic Design</li></ul></td><td><ul><li>Assembly Language</li></ul></td></tr><tr><td><ul><li>Computer Architecture</li></ul></td><td><ul><li>Discrete Structures I,II</li></ul></td><td><ul><li>Calculus I, II</li></ul></td></tr><tr><td><ul><li>Operating Systems</li></ul></td><td><ul><li>Software Engineering</li></ul></td><td><ul><li>Ubiquitous Computing</li></ul></td></tr><tr><td><ul><li>Foundations of CS</li></ul></td><td><ul><li>Oral &amp; Written Communication for CS</li></ul></td><td><ul><li>Analysis of Algorithms</li></ul></td></tr></table>
+      duration: (2014 - 2017)
+      description: <h5>Relevant Course Work</h5> <table><tr><td><ul><li>Computing I, II, III, IV</li></ul></td><td><ul><li>Logic Design</li></ul></td><td><ul><li>Assembly Language</li></ul></td></tr><tr><td><ul><li>Computer Architecture</li></ul></td><td><ul><li>Discrete Structures I,II</li></ul></td><td><ul><li>Mobile Applications</li></ul></td></tr><tr><td><ul><li>Operating Systems</li></ul></td><td><ul><li>Software Engineering</li></ul></td><td><ul><li>Ubiquitous Computing</li></ul></td></tr><tr><td><ul><li>Foundations of CS</li></ul></td><td><ul><li>Oral &amp; Written Communication for CS</li></ul></td><td><ul><li>Analysis of Algorithms</li></ul></td></tr></table>
     - education2:
       organization: Middlesex Community College
       location: Bedford, Massachusetts
@@ -84,10 +91,7 @@ author:
       percentage: 100%
     - skill3:
       name: Java/XML
-      percentage: 75%
+      percentage: 85%
     - skill4:
       name: C#
-      percentage: 75%
-    - skill5:
-      name: HTML/CSS/JavaScript
-      percentage: 50%
+      percentage: 85%
